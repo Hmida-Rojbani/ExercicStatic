@@ -1,4 +1,4 @@
-public class AfficherCouleur {
+public  class AfficherCouleur {
     public static void main(String[] args) {
         FigureGeometrique f1, f2, f3, f4;
         f1 = new FigureGeometrique("Rouge", "Noir");
